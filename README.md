@@ -1,3 +1,20 @@
+
+
+## Tools:
+
+<img height="100%" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-William1&layout=compact&langs_count=7&theme=dracula"/>
+
+
+
+
+
+
+
+
+
+
+
+
 <div>
 <a href="https://github.com/Peter-William1">
 <img height="100%" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-William1&layout=compact&langs_count=7&theme=dracula"/>
