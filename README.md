@@ -5,7 +5,7 @@
 <br />
 <br />
 <div>
-  ![Peter William GitHub stats](https://github-readme-stats.vercel.app/api?username=peter-william1)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>  
 <br />
 
